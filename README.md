@@ -1,6 +1,6 @@
 # DEPLOY / APPLEBOT
 
-Instalador do AppeBot X Seja Feliz / Deploy
+Instalador do AppleBot | Seja Feliz / Deploy
 
 <p align="center">
 
