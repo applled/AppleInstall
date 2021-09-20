@@ -1,42 +1,42 @@
 {
 	"env": {
 		"API_ID": {
-			"description": "Get this value from https://my.telegram.org"
+			"description":"Entre em https://my.telegram.org"
 		},
 		"API_HASH": {
-			"description": "Get this value from https://my.telegram.org"
+			"description":"Entre em https://my.telegram.org"
 		},
 		"DATABASE_URL": {
-			"description": "Mongodb url from https://cloud.mongodb.com/, guide: https://del.dog/mongodb_guide"
+			"description":"Mongodb url em https://cloud.mongodb.com/ guia: tá no grupo ou fale comigo @applled"
 		},
 		"HEROKU_APP_NAME": {
-			"description": "Given app name to the Heroku App"
+			"description":"Nome do seu Heroku App"
 		},
 		"LOG_CHANNEL_ID": {
-			"description": "[ Private Telegram Log Channel ID ], Note: Also add your Bot to LOG CHANNEL !"
+			"description":"[ ID de um Canal de Log privado ], Nota: adicione seu bot no canal!"
 		},
 		"HEROKU_API_KEY": {
-			"description": "[Required] Get a Heroku API key from http://dashboard.heroku.com/account",
-			"required": false
+            		"description":"[Obrigatório] Entre em  http://dashboard.heroku.com/account",
+            		"required":false
 		},
 		"HU_STRING_SESSION": {
-			"description": "Get this using 'https://repl.it/@Leorio/stringsessiongen' or `bash genStr`",
-			"required": false
+            		"description":"Consiga entre em  'https://repl.it/@Leorio/stringsessiongen' ou `bash genStr`",
+            		"required":false
 		},
 		"BOT_TOKEN": {
-			"description": "Get this from https://t.me/botfather and enable Inline Mode. (ADD YOUR BOT IN LOG CHANNEL)",
-			"required": false
+            		"description":"Entre em https://t.me/botfather e ative o Inline Mode",
+            		"required":false
 		},
 		"UPSTREAM_REPO": {
-			"description": "fill only if you maintain a fork !, else leave empty",
+			"description": "Copie e cole este link: https://github.com/applled/AppleBot",
 			"required": false
 		},
 		"OWNER_ID": {
-			"description": "Your user_id(s) e.g 123456789 or mutiple ids",
-			"required": false
+            		"description":"SEU ID - exemplo: 123456789",
+            		"required":false
 		},
 		"PREF_BRANCH": {
-			"description": "Upstream repo preffered branch. (Dont Touch This !)",
+			"description": "Mantenha assim.",
 			"required": false,
 			"value": "alpha"
 		}
